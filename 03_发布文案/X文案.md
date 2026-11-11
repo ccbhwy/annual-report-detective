@@ -14,7 +14,7 @@
 
 **Post 2/6**
 
-设计思路：单 Agent 又算又验等于自己批改自己的作业。所以拆成 5 个角色——
+在 AutoClaw 里，单 Agent 又算又验等于自己批改自己的作业，所以我拆成 5 个角色——
 ① 取数Agent：抓财报，原始 JSON 留档
 ② 勾稽Agent：74 项恒等式机械核验
 ③ 质疑Agent：红队专挑毛病
@@ -54,7 +54,7 @@ EPS 回算 65.74 vs 披露 65.66——不是错误，是"期末股本"和"加权
 
 **Post 6/6**
 
-完整工作流主指令已开源成模板，换个证券代码就能体检任何一家 A 股公司（金融类需另配勾稽模板）。
+完整工作流主指令已整理成模板：在 AutoClaw 里粘贴、换个证券代码就能体检任何一家 A 股公司（金融类需另配勾稽模板）。
 TL;DR: 5-agent workflow, 74/74 checks passed, 10/10 independent recomputation matched, revenue -1.2% but reporting quality A.
 
 #AutoClaw #AI #FinTech
