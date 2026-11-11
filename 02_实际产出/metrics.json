@@ -1,0 +1,208 @@
+{
+ "company": "贵州茅台",
+ "code": "600519.SH",
+ "periods": [
+  "2025年报",
+  "2024年报",
+  "2023年报",
+  "2022年报",
+  "2021年报"
+ ],
+ "trend": [
+  {
+   "period": "2025年报",
+   "total_income": 172054171890.91,
+   "income_yoy": -1.2000971769,
+   "parent_profit": 82320067101.68,
+   "profit_yoy": -4.5322548172,
+   "gross_margin": 91.18,
+   "net_margin": 49.58,
+   "roe": 32.53,
+   "debt_ratio": 16.4153621922,
+   "ocf": 61522204989.35,
+   "cash_ratio": 0.721,
+   "inventory": 61427421796.18,
+   "contract_liab": 8006739780.94,
+   "monetary": 51690610946.5,
+   "total_assets": 303834844021.44,
+   "parent_equity": 244637811032.18,
+   "unassign_profit": 191905148832.21,
+   "eps": 65.66,
+   "dividend_paid": 67241733345.45
+  },
+  {
+   "period": "2024年报",
+   "total_income": 174144069958.25,
+   "income_yoy": 15.663979743,
+   "parent_profit": 86228146421.62,
+   "profit_yoy": 15.3799661016,
+   "gross_margin": 91.93,
+   "net_margin": 51.3,
+   "roe": 36.02,
+   "debt_ratio": 19.0447556579,
+   "ocf": 92463692168.43,
+   "cash_ratio": 1.035,
+   "inventory": 54343285157.47,
+   "contract_liab": 9592453014.66,
+   "monetary": 59295822956.89,
+   "total_assets": 298944579918.7,
+   "parent_equity": 233105984399.47,
+   "unassign_profit": 182787415205.05,
+   "eps": 68.64,
+   "dividend_paid": 70951027702.94
+  },
+  {
+   "period": "2023年报",
+   "total_income": 150560330316.45,
+   "income_yoy": 18.0365792459,
+   "parent_profit": 74734071550.75,
+   "profit_yoy": 19.1598992892,
+   "gross_margin": 91.96,
+   "net_margin": 51.49,
+   "roe": 34.19,
+   "debt_ratio": 17.9843241392,
+   "ocf": 66593247721.09,
+   "cash_ratio": 0.859,
+   "inventory": 46435185061.53,
+   "contract_liab": 14125755802.29,
+   "monetary": 69070136376.12,
+   "total_assets": 272699660092.25,
+   "parent_equity": 215668571607.43,
+   "unassign_profit": 172983178300.09,
+   "eps": 59.49,
+   "dividend_paid": 58754786730.01
+  },
+  {
+   "period": "2022年报",
+   "total_income": 127553959355.97,
+   "income_yoy": 16.5256474801,
+   "parent_profit": 62717467870.12,
+   "profit_yoy": 19.5526024824,
+   "gross_margin": 91.87,
+   "net_margin": 51.25,
+   "roe": 30.26,
+   "debt_ratio": 19.4744927128,
+   "ocf": 36698595830.03,
+   "cash_ratio": 0.561,
+   "inventory": 38824374236.24,
+   "contract_liab": 15471920924.98,
+   "monetary": 58274318733.23,
+   "total_assets": 254500826096.02,
+   "parent_equity": 197480041239.46,
+   "unassign_profit": 161278002807.1,
+   "eps": 49.93,
+   "dividend_paid": 57370196191.46
+  },
+  {
+   "period": "2021年报",
+   "total_income": 109464278563.89,
+   "income_yoy": 11.705948292,
+   "parent_profit": 52460144378.16,
+   "profit_yoy": 12.3408864034,
+   "gross_margin": 91.54,
+   "net_margin": 50.9,
+   "roe": 29.89,
+   "debt_ratio": 22.8126739769,
+   "ocf": 64028676147.37,
+   "cash_ratio": 1.149,
+   "inventory": 33394365084.83,
+   "contract_liab": 12718465288.02,
+   "monetary": 51810243607.11,
+   "total_assets": 255168195159.9,
+   "parent_equity": 189539368797.29,
+   "unassign_profit": 160716861920.19,
+   "eps": 41.76,
+   "dividend_paid": 26476019839.37
+  }
+ ],
+ "latest_q": {
+  "period": "2026三季报",
+  "income": 133283652508.95,
+  "income_yoy": 1.817946648268,
+  "profit": 64467425981.95,
+  "profit_yoy": -0.246524447439,
+  "notice_date": "2026-10-31"
+ },
+ "peers": [
+  {
+   "code": "600519.SH",
+   "name": "贵州茅台",
+   "period": "2025年报",
+   "income": 172054171890.91,
+   "income_yoy": -1.200097176919,
+   "profit": 82320067101.68,
+   "profit_yoy": -4.532254817158,
+   "gross_margin": 91.1795516835,
+   "roe": 32.53,
+   "debt_ratio": 16.4153621922,
+   "ocf_to_debt": null
+  },
+  {
+   "code": "000858.SZ",
+   "name": "五粮液",
+   "period": "2025年报",
+   "income": 40528509770.23,
+   "income_yoy": -54.551804064166,
+   "profit": 8954257202.51,
+   "profit_yoy": -71.888962730611,
+   "gross_margin": 77.5418415205,
+   "roe": 6.89,
+   "debt_ratio": 35.6890530354,
+   "ocf_to_debt": null
+  },
+  {
+   "code": "000568.SZ",
+   "name": "泸州老窖",
+   "period": "2025年报",
+   "income": 25731010647.32,
+   "income_yoy": -17.518893696809,
+   "profit": 10830713936.14,
+   "profit_yoy": -19.611632094895,
+   "gross_margin": 86.6241181512,
+   "roe": 22.66,
+   "debt_ratio": 22.9970115825,
+   "ocf_to_debt": null
+  },
+  {
+   "code": "600809.SH",
+   "name": "山西汾酒",
+   "period": "2025年报",
+   "income": 38718257657.74,
+   "income_yoy": 7.517885961356,
+   "profit": 12246329337.25,
+   "profit_yoy": 0.028138904109,
+   "gross_margin": 74.8525045655,
+   "roe": 33.48,
+   "debt_ratio": 28.7429091315,
+   "ocf_to_debt": null
+  }
+ ],
+ "data_meta": {
+  "balance_600519": {
+   "rows": 24,
+   "latest": "2026三季报",
+   "notice_date": "2026-10-31"
+  },
+  "income_600519": {
+   "rows": 24,
+   "latest": "2026三季报",
+   "notice_date": "2026-10-31"
+  },
+  "cashflow_600519": {
+   "rows": 24,
+   "latest": "2026三季报",
+   "notice_date": "2026-10-31"
+  },
+  "main_600519": {
+   "rows": 40,
+   "latest": "2026三季报",
+   "notice_date": "2026-10-31"
+  },
+  "dividend_600519": {
+   "rows": 12,
+   "latest": null,
+   "notice_date": "2026-04-17"
+  }
+ },
+ "run_time": "2026-11-09 23:45:26"
+}
